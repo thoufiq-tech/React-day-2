@@ -8,7 +8,7 @@ export default function Card(){
         <hr />
         <div className="font">
         <i class="fa-solid fa-check"></i> Single User<br />
-        <i class="fa-solid fa-check"></i> 500 GB Storage <br />
+        <i class="fa-solid fa-check"></i> 50 GB Storage <br />
         <i class="fa-solid fa-check"></i> Unlimited Public Projects <br />
         <i class="fa-solid fa-check"></i> Community Access <br />
         <div className="font-color">
